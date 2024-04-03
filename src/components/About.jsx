@@ -18,7 +18,7 @@ const About = () => {
 
                 </div>
 
-                <img className='mx-auto rounded-3x1 py-8 md:py-0' src={aboutImg} width={300} height={300} />
+                <img className='mx-auto rounded-3x1 py-8 md:py-0' alt="about me" src={aboutImg} width={300} height={300} />
 
             </div>
 
